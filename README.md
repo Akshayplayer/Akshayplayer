@@ -4,23 +4,18 @@
 📍 **Machine Learning | Data Science | AI | Cloud Computing**  
 
 ## 🚀 About Me  
-I am **Akshay Ku Bothra**, a passionate **AI/ML and data science enthusiast** currently pursuing a **Dual Degree (B.Tech + M.Tech) in Civil Engineering & Engineering Entrepreneurship** at **IIT Kharagpur**. My expertise lies in **predictive modeling, NLP, deep learning, and cloud computing**, with hands-on experience in solving real-world problems across industries. I have worked on **predictive maintenance models, AI-powered educational platforms, and financial fraud detection**, leveraging cutting-edge technologies like **XGBoost, RoBERTa, OpenCV, and Apache Spark**.  
+I am **Akshay Ku Bothra**, a passionate **AI/ML and data science enthusiast** currently pursuing a **Dual Degree (B.Tech + M.Tech) in Civil Engineering & Engineering Entrepreneurship** at **IIT Kharagpur**. My expertise lies in **predictive modeling, NLP, deep learning**, with hands-on experience in solving real-world problems across industries. I have worked on **predictive maintenance models, AI-powered educational platforms, and financial fraud detection**, leveraging cutting-edge technologies like **XGBoost, RoBERTa, OpenCV, and Apache Spark**.  
 
 Beyond academics, I actively participate in **hackathons and coding competitions**, having secured a **top 5 nationwide ranking in Smart India Hackathon 2023**. I thrive in **building scalable AI solutions, optimizing big data pipelines, and automating workflows** to drive impactful innovation. Passionate about **MLOps and cloud technologies**, I constantly explore ways to **bridge the gap between AI research and practical implementation**.  
 
-I am always open to exciting collaborations, research opportunities, and tech discussions. Let’s connect and innovate together! 🚀  
+I am always open to exciting collaborations, research opportunities, and tech discussions. Let’s connect and innovate together! 🚀   
 
-## 🏆 Achievements  
-- **Smart India Hackathon 2023** Finalist (Top 5 Nationwide)  
-- Developed a **predictive maintenance model** for **Hindalco Industries** with **93.28% accuracy**  
-- Built a **Q/A NLP model** at **IIM Bangalore** using **RoBERTa & TextBlob**  
-- Spearheaded an **AI-powered EdTech Platform** for **student-teacher interaction** at IIT Kharagpur  
-
-## 💼 Work & Projects  
+## 💼 Work & Competitions 
 🚀 **Predictive Maintenance @ Hindalco** | [XGBoost, CatBoost, Pandas]  
 📊 **Q/A NLP Model @ IIM Bangalore** | [RoBERTa, TextBlob, Pytrends]  
 🤖 **AI-Driven EdTech Platform @ IIT Kharagpur** | [BERTopic, OpenCV, NLP]  
-💳 **Credit Card Fraud Detection** | [XGBoost, PCA, Feature Engineering]  
+💳 **Credit Card Fraud Detection** | [XGBoost, PCA, Feature Engineering]
+🏆 **Smart India Hackathon 2023 Finalist (Top 5 Nationwide)** | [IoT, Grafana, InfluxDB, Azure]
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python, C++, SQL  
