@@ -73,6 +73,7 @@ I am always open to exciting collaborations, research opportunities, and tech di
 <a href="https://auth.geeksforgeeks.org/user/akshaykubothra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshaykubothra" height="30" width="40" /></a>
 </p>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshayku.bothra@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-ku-bothra-1136861bb/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Akshayplayer)  
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/user3885IN/)  
