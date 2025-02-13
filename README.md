@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akshay Ku Bothra  
+<h1 align="center">Hi there 👋, I'm I am Akshay Ku Bothra</h1>
 
 🎓 **Civil Engineering & Engineering Entrepreneurship** (Dual Degree) | **IIT Kharagpur**  
 📍 **Machine Learning | Data Science | AI | Cloud Computing**  
@@ -79,4 +79,14 @@ I am always open to exciting collaborations, research opportunities, and tech di
 [![Codeforces](https://img.shields.io/badge/-Codeforces-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/akshayku.bothra)  
 [![CodeChef](https://img.shields.io/badge/-CodeChef-brown?style=flat&logo=codechef)](https://www.codechef.com/users/akshaykubothra)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayplayer&" alt="akshayplayer" /></p>Thanks for stopping by! 😊 Let's connect and build something amazing! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayplayer&" alt="akshayplayer" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayplayer&label=Profile%20views&color=0e75b6&style=flat" alt="akshayplayer" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayplayer" alt="akshayplayer" /></a> </p>
+
+
+
+
+# Thanks for stopping by! 😊 Let's connect and build something amazing! 🚀
